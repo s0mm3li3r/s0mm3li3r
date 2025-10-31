@@ -1,7 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=250&text=Offensive%20Security%20Researcher&fontSize=30&animation=fadeIn)
 
 ## Certifications
-- OSEP, OSCP, OSWP, CRTO, POISE
+- OSEP (OffSec Experienced Penetration Tester)
+- OSCP (OffSec Certified Penetration Tester)
+- OSWP (OffSec Wireless Penetration Tester)
+- CRTO (Certified Red Team Operator)
+- POISE (Practical Offensive Industrial Security Essentials)
 
 <img width="200" height="200" alt="osep" src="https://github.com/user-attachments/assets/710352e5-ee39-4e64-a56d-1439469138b8" />
 <img width="110" height="110" alt="oscp" src="https://github.com/user-attachments/assets/f673309b-a230-4616-b726-b6be499c14ec" />
