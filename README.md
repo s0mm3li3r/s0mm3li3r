@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=250&text=Offensive%20Security%20Researcher&fontSize=30&animation=fadeIn)
 
 ## Certifications
-- **Korean Sommelier Association Level 1 Sommelier **
+- **Korean Sommelier Association Level 1 Sommelier**
 - OSEP (OffSec Experienced Penetration Tester)
 - OSCP (OffSec Certified Penetration Tester)
 - OSWP (OffSec Wireless Penetration Tester)
